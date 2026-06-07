@@ -31,6 +31,8 @@ An Exploratory Data Analysis (EDA) project investigating the underlying factors 
 #### Key Visual Highlights Included:
 * Customized **Seaborn Regression Plots (`sns.regplot`)** highlighting the trendline mapping out budget versus gross metrics.
 * Comprehensive **Seaborn Heatmaps (`sns.heatmap`)** highlighting visual spectrum cues ranging from absolute independent relationships (dark/black zones) to intense correlations (bright/light zones).
+  <img width="1080" height="786" alt="image" src="https://github.com/user-attachments/assets/61806b64-b1c9-4f3a-be25-06fdde7d04e9" />
+
 
 ---
 
